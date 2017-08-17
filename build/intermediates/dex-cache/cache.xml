@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3937dfc440d4ab009cf62a73a3a29e264a312a4f">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b214108f3cbe84f44fe6570b05e2e7557e9e71a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_7b5bade9ad1e399a3dd1a76acf8d081947e7fac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_a5a07fff8048e9cacbafbd1976d1eee4fdf1822b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33538e2ef3bdea86f5e58a3d1a37ecc28e430ba3">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3083404b69442fdca8bd9cc606561a18333e9700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_4c685ce25881344a138e575c15f0fce53cc8753b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_cbe45f1e698841f0fc35ab4780ec87f4bbf85f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_601df67c8c0dab48c3900a30143fe194c2e20846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_0c2f941ab6ec5f3ce34dbd46b7cf1866e0c98c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_34474c8a1f0672ec7bf0d35625cb9cba9c8737ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_83c013b31bfa5afa1cdda820908662197a9681ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_1fe626169239a3985cd90aa4c4f812033e4f5f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_63861b54d5ec372ccc4ac7cd8ff0885d68b94218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_f69e5d7ad4d2fa4593cb1bb0c48b2d9e7b2a048d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jaxonstevens/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Jaxonstevens/Downloads/AndroidTableViews/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_822c9994138eb5c314e6250276d7f2d157c428d6/classes.dex" />
+    </item>
+
+</items>
